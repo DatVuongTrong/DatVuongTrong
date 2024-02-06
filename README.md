@@ -3,6 +3,7 @@
 
 ## 🌐 Leetcode:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/datvuong_2025)](https://leetcode.com/datvuong_2025/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dat310803)](https://leetcode.com/dat310803/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vuongtrongdat2003/) 
