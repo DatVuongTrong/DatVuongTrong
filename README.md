@@ -1,7 +1,8 @@
 # 💫 About Me:
 - Competitive Programmer skilled in C++,<br>- Enthusiastic about MLOps and DevOps, <br>- Eager learner with a passion for expanding their tech stack, <br>- Debating and Singing
 
-## 🌐 Leetcode:
+## ![image](https://github.com/DatVuongTrong/DatVuongTrong/assets/91571073/fc4b2f24-f797-4d24-a43b-9e7951016c0d)
+ Leetcode:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/datvuong_2025)](https://leetcode.com/datvuong_2025/)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dat310803)](https://leetcode.com/dat310803/)
 
