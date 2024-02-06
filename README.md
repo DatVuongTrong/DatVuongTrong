@@ -1,5 +1,5 @@
 # 💫 About Me:
-:dart: Competitive Programmer<br>- :cloud: Enthusiastic about MLOps and DevOps <br> :microphone: Debating and singing
+:dart: Competitive Programmer<br>:cloud: Enthusiastic about MLOps and DevOps<br>:microphone: Debating and singing
 
 ## :octocat: Leetcode:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/datvuong_2025)](https://leetcode.com/datvuong_2025/)
