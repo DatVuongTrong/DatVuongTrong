@@ -17,5 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DatVuongTrong&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # :medal_military: Badge:
-[<img src="./terraform-badge.png" width="100" />](https://www.credly.com/badges/f7268c8a-4d13-4bb8-be4f-88fa16f00fe4)  
-[<img src="./aws-badge.png" width="100" />](https://www.credly.com/badges/2433dd5b-bc73-46cb-9ae8-7e4058600465)
+[<img src="./aws-badge.png" width="100" />](https://www.credly.com/badges/f7268c8a-4d13-4bb8-be4f-88fa16f00fe4) [<img src="./terraform-badge.png" width="100" />](https://www.credly.com/badges/2433dd5b-bc73-46cb-9ae8-7e4058600465)
