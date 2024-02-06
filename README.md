@@ -16,4 +16,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DatVuongTrong&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DatVuongTrong&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# :medal_military: Badge:
+https://img.shields.io/badge/https%3A%2F%2Fwww.credly.com%2Fbadges%2F2433dd5b-bc73-46cb-9ae8-7e4058600465
